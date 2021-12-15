@@ -8,11 +8,11 @@ const NotFound = () => {
         setTimeout(() => {
             router.push('/')
         }, 3000)
-    }, [])
+    })
    return ( 
         <div className="not-found">
             <h1> Ooops...</h1>
-            <Image className='image' src="/spider-man-shocked.gif" alt="spiderman shocked gif" />
+            <Image className='image' src="/spider-man-shocked.gif" alt="spiderman shocked gif" width={300} height={300} />
             <h2>That page can not be found</h2>
             
             <p>Go back to the <Link href='/'> 
