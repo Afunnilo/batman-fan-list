@@ -1,0 +1,23 @@
+.title{
+  color: #333;
+  padding-bottom: 20px;
+  text-align: center;
+  padding-top: 50px;
+}
+.text{
+  color:#777;
+  margin: 10px;
+}
+.btn{
+  display: block;
+  width: 150px;
+  padding:10px 5px;
+  margin: 20px auto;
+  background: rgb(214, 10, 136);
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+}
+.btn:hover{
+  background-color: plum;
+}
