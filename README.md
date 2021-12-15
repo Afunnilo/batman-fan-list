@@ -1,5 +1,8 @@
-Simpe nextjs practice project.
-Displays a list of names. 
+Simple nextjs practice project.
+Displays a list of names obtained from an api and gives details about the names. 
+
+hosted on netlify : 
+Click on 'clark kent' to view 404 error page.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
